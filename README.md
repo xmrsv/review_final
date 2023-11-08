@@ -1,7 +1,7 @@
 # review_final
-Review final, proyecto CRUD para el reforzamiento de Lenguajes de Programación II, hecho con Spring Boot.
 
-Arquitectura Hexagonal.
+Review Final es una aplicación CRUD hecha con Spring Boot para el reforzamiento del curso de Lenguajes de Programación II.
+Este proyecto usa una arquitectura Hexagonal, con base de datos MySQL y front-end (template) Thymeleaf.
 
 Dependencias:
 - Thymeleaf
@@ -9,3 +9,4 @@ Dependencias:
 - Spring Web
 - MySQL Driver
 - Spring Data JPA
+
